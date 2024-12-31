@@ -8248,3 +8248,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [31Dec2024 04:08:27.164] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-453, 79, 2389] in minecraft:overworld
 [31Dec2024 04:09:59.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU was slain by Zombie
 [31Dec2024 04:11:07.718] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[31Dec2024 04:12:15.720] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-452, 71, 2387] in minecraft:overworld
+[31Dec2024 04:12:15.917] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 83 stacked items at:[-464, 65, 2385] in minecraft:overworld
+[31Dec2024 04:21:10.547] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting vazkii/quark/base/handler/SortingHandler$ItemType

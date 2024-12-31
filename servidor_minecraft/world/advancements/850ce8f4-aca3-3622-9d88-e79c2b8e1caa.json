@@ -80,6 +80,12 @@
     },
     "done": true
   },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-31 04:32:46 +0000"
+    },
+    "done": true
+  },
   "create:water_wheel": {
     "criteria": {
       "0": "2024-12-11 01:19:07 +0000"
@@ -191,6 +197,12 @@
   "create:sturdy_sheet": {
     "criteria": {
       "0": "2024-12-15 23:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:compacting": {
+    "criteria": {
+      "0": "2024-12-31 04:34:49 +0000"
     },
     "done": true
   },

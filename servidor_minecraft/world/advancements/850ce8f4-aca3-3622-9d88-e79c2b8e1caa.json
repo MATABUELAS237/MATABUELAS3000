@@ -32,6 +32,12 @@
     },
     "done": false
   },
+  "createmetallurgy:graphite": {
+    "criteria": {
+      "have_casting_basin": "2024-12-31 02:50:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-12-12 06:26:34 +0000"

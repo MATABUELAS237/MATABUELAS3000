@@ -6473,3 +6473,40 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [31Dec2024 01:15:10.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU burned to death
 [31Dec2024 01:16:05.437] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
 [31Dec2024 01:19:16.119] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[31Dec2024 01:20:03.964] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[31Dec2024 01:20:28.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU fell from a high place
+[31Dec2024 01:20:40.265] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/AbstractArrow$Pickup
+[31Dec2024 01:21:05.427] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[31Dec2024 01:21:09.737] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/entity/EngineAircraft$GUI_STYLE
+[31Dec2024 01:21:27.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU was shot by Skeleton
+[31Dec2024 01:21:53.418] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PepitoinsanoUwU was kicked for floating too long!
+[31Dec2024 01:21:53.419] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PepitoinsanoUwU lost connection: Flying is not enabled on this server
+[31Dec2024 01:21:53.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU left the game
+[31Dec2024 01:21:53.423] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 850ce8f4-aca3-3622-9d88-e79c2b8e1caa
+[31Dec2024 01:21:53.424] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[31Dec2024 01:21:53.503] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 01:22:00.337] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ae8e973
+[31Dec2024 01:22:00.350] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[31Dec2024 01:22:00.352] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[31Dec2024 01:22:00.354] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[31Dec2024 01:22:00.363] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[31Dec2024 01:22:00.364] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[31Dec2024 01:22:00.372] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PepitoinsanoUwU[/127.244.86.31:46571] logged in with entity id 2664 at (-527.3883805004926, 70.2522032912725, 2389.4870763166464)
+[31Dec2024 01:22:00.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU joined the game
+[31Dec2024 01:22:00.464] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 850ce8f4-aca3-3622-9d88-e79c2b8e1caa
+[31Dec2024 01:22:00.471] [Server thread/INFO] [Jade/]: Syncing config to PepitoinsanoUwU (850ce8f4-aca3-3622-9d88-e79c2b8e1caa)
+[31Dec2024 01:22:00.945] [Server thread/INFO] [ping-wheel/]: Channel update: PepitoinsanoUwU -> default
+[31Dec2024 01:22:45.266] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 7358 Ticks
+[31Dec2024 01:30:48.684] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[31Dec2024 01:30:48.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoGamer777 has made the advancement [The Copper Age]
+[31Dec2024 01:33:30.975] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/LastSeenMessagesValidator$ErrorCondition
+[31Dec2024 01:33:30.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[31Dec2024 01:33:30.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <PepitoinsanoUwU> ¬£<1{$]5[[(|$µ]$¶±ª7
+[31Dec2024 01:33:45.167] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-468, y=62, z=2395}
+[31Dec2024 01:42:36.262] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@75407d1f
+[31Dec2024 01:43:09.077] [Server thread/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[31Dec2024 01:43:11.434] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2331ms or 46 ticks behind
+[31Dec2024 01:43:11.494] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[31Dec2024 01:54:53.255] [Netty Epoll Server IO #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/network/c2s/CommandMessage$Key
+[31Dec2024 01:55:19.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU was slain by Zombie
+[31Dec2024 01:56:07.714] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.

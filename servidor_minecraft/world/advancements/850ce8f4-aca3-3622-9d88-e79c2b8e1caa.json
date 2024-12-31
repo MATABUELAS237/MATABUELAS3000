@@ -92,6 +92,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2024-12-31 03:22:50 +0000"
+    },
+    "done": true
+  },
   "create:super_glue": {
     "criteria": {
       "0": "2024-12-11 01:32:19 +0000"
@@ -196,6 +202,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2024-12-31 03:38:54 +0000",
       "porkchop": "2024-12-12 06:39:02 +0000",
       "apple": "2024-12-12 06:38:49 +0000",
       "potato": "2024-12-12 04:27:33 +0000",
@@ -451,6 +458,12 @@
     },
     "done": true
   },
+  "create:saw_processing": {
+    "criteria": {
+      "0": "2024-12-31 03:13:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-12 04:38:36 +0000",
@@ -590,6 +603,7 @@
       "minecraft:pillager": "2024-12-12 02:59:08 +0000",
       "minecraft:skeleton": "2024-12-10 00:25:35 +0000",
       "minecraft:zoglin": "2024-12-12 05:32:00 +0000",
+      "minecraft:vindicator": "2024-12-31 03:20:17 +0000",
       "minecraft:spider": "2024-12-10 00:32:00 +0000",
       "minecraft:creeper": "2024-12-10 01:52:53 +0000",
       "quark:forgotten": "2024-12-12 05:47:01 +0000",

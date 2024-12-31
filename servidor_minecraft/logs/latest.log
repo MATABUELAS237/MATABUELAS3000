@@ -6518,3 +6518,46 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [31Dec2024 02:06:07.715] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
 [31Dec2024 02:25:52.370] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting plus/dragons/createcentralkitchen/foundation/data/tag/IntegrationItemTags
 [31Dec2024 02:52:48.523] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=68, z=2404} BlockPos{x=-515, y=69, z=2403}
+[31Dec2024 03:02:38.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU was shot by Skeleton
+[31Dec2024 03:06:07.717] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[31Dec2024 03:14:11.669] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 10319 Ticks
+[31Dec2024 03:15:31.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-516, y=71, z=2404} BlockPos{x=-504, y=67, z=2404}
+[31Dec2024 03:17:07.668] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/raid/Raid$RaidStatus
+[31Dec2024 03:19:29.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-511, y=68, z=2448} BlockPos{x=-464, y=63, z=2406}
+[31Dec2024 03:19:29.621] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-511, y=68, z=2448} BlockPos{x=-463, y=62, z=2407}
+[31Dec2024 03:20:56.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU was chopped to bits by Skirmisher
+[31Dec2024 03:21:07.717] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[31Dec2024 03:22:13.970] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-457, 71, 2391] in minecraft:overworld
+[31Dec2024 03:22:26.813] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-464, 65, 2385] in minecraft:overworld
+[31Dec2024 03:22:50.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU has completed the challenge [Hero of the Village]
+[31Dec2024 03:40:14.409] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-457, 79, 2391] in minecraft:overworld
+[31Dec2024 03:40:27.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[31Dec2024 03:40:34.772] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-452, 71, 2387] in minecraft:overworld
+[31Dec2024 03:43:26.814] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-562, 69, 2409] in minecraft:overworld
+[31Dec2024 03:51:50.622] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-561, 70, 2409] in minecraft:overworld
+[31Dec2024 03:53:55.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:53:55.759] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:33.364] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:38.859] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:38.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:44.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:44.359] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:44.458] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:49.664] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:54:49.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:55:28.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:21.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:21.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:22.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:22.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:22.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:22.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:22.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:56:22.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:57:08.261] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:57:28.063] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:57:28.160] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:57:28.258] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:58:38.658] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:59:16.459] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[31Dec2024 03:59:16.557] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

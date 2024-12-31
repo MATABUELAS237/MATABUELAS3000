@@ -1,0 +1,17 @@
+{
+	id: "850ce8f4-aca3-3622-9d88-e79c2b8e1caa"
+	type: "player"
+	player_name: "PepitoinsanoUwU"
+	ranks: {
+		850ce8f4-aca3-3622-9d88-e79c2b8e1caa: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PepitoinsanoUwU"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF596F"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

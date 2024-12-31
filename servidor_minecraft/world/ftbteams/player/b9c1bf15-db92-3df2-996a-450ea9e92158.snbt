@@ -1,0 +1,17 @@
+{
+	id: "b9c1bf15-db92-3df2-996a-450ea9e92158"
+	type: "player"
+	player_name: "GatoGamer777"
+	ranks: {
+		b9c1bf15-db92-3df2-996a-450ea9e92158: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "GatoGamer777"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FAFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

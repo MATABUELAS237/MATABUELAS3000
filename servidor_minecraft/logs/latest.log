@@ -4516,3 +4516,215 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [01Jan2025 02:27:44.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
 [01Jan2025 02:28:01.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
 [01Jan2025 02:28:04.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:28:08.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:28:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:28:29.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:28:39.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:30:33.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:31:27.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:32:25.868] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-457, 73, 2387] in minecraft:overworld
+[01Jan2025 02:32:29.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:32:40.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:32:47.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PepitoinsanoUwU lost connection: Disconnected
+[01Jan2025 02:32:47.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU left the game
+[01Jan2025 02:32:47.371] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 850ce8f4-aca3-3622-9d88-e79c2b8e1caa
+[01Jan2025 02:32:53.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:33:12.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Creative Mode]
+[01Jan2025 02:33:55.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:34:10.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Creative Mode]
+[01Jan2025 02:35:25.860] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 130 stacked items at:[-457, 78, 2391] in minecraft:overworld. Removed leaking items automatically
+[01Jan2025 02:35:44.276] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7041d292[id=<null>,name=PepitoinsanoUwU,properties={},legacy=false] (/127.244.86.31:44825) lost connection: Disconnected
+[01Jan2025 02:35:51.669] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@302e2f8e
+[01Jan2025 02:35:51.678] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 02:35:51.680] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:35:51.681] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:35:51.688] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:35:51.688] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:35:51.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PepitoinsanoUwU[/127.244.86.31:39891] logged in with entity id 27621 at (-535.3000000119209, 72.25469080274252, 2411.332463777255)
+[01Jan2025 02:35:51.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU joined the game
+[01Jan2025 02:35:51.767] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 850ce8f4-aca3-3622-9d88-e79c2b8e1caa
+[01Jan2025 02:35:51.769] [Server thread/INFO] [Jade/]: Syncing config to PepitoinsanoUwU (850ce8f4-aca3-3622-9d88-e79c2b8e1caa)
+[01Jan2025 02:35:56.767] [Server thread/INFO] [ping-wheel/]: Channel update: PepitoinsanoUwU -> default
+[01Jan2025 02:36:32.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PepitoinsanoUwU lost connection: Disconnected
+[01Jan2025 02:36:32.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU left the game
+[01Jan2025 02:36:32.012] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 850ce8f4-aca3-3622-9d88-e79c2b8e1caa
+[01Jan2025 02:39:19.022] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69791159
+[01Jan2025 02:39:19.038] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 02:39:19.039] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:39:19.041] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:39:19.051] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:39:19.052] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:39:19.062] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PepitoinsanoUwU[/127.244.86.31:57935] logged in with entity id 28076 at (-535.3000000119209, 72.25469080274252, 2411.332463777255)
+[01Jan2025 02:39:19.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU joined the game
+[01Jan2025 02:39:19.146] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 850ce8f4-aca3-3622-9d88-e79c2b8e1caa
+[01Jan2025 02:39:19.148] [Server thread/INFO] [Jade/]: Syncing config to PepitoinsanoUwU (850ce8f4-aca3-3622-9d88-e79c2b8e1caa)
+[01Jan2025 02:39:24.795] [Server thread/INFO] [ping-wheel/]: Channel update: PepitoinsanoUwU -> default
+[01Jan2025 02:43:04.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:43:37.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Creative Mode]
+[01Jan2025 02:43:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:43:50.215] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 9745 Ticks
+[01Jan2025 02:43:55.320] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 11899 Ticks
+[01Jan2025 02:44:00.661] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-455, 79, 2389] in minecraft:overworld
+[01Jan2025 02:44:05.010] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-464, 65, 2385] in minecraft:overworld
+[01Jan2025 02:44:25.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:45:12.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:45:16.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GatoGamer777 was kicked for floating too long!
+[01Jan2025 02:45:16.466] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GatoGamer777 lost connection: Flying is not enabled on this server
+[01Jan2025 02:45:16.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoGamer777 left the game
+[01Jan2025 02:45:16.467] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b9c1bf15-db92-3df2-996a-450ea9e92158
+[01Jan2025 02:45:16.544] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[01Jan2025 02:45:28.423] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b3288cb
+[01Jan2025 02:45:28.433] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 02:45:28.434] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:45:28.436] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:45:28.442] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:45:28.443] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:45:28.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GatoGamer777[/127.223.136.87:35157] logged in with entity id 45760 at (-468.20298150017123, 69.93583124119519, 2393.881060333615)
+[01Jan2025 02:45:28.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoGamer777 joined the game
+[01Jan2025 02:45:28.523] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b9c1bf15-db92-3df2-996a-450ea9e92158
+[01Jan2025 02:45:28.524] [Server thread/INFO] [Jade/]: Syncing config to GatoGamer777 (b9c1bf15-db92-3df2-996a-450ea9e92158)
+[01Jan2025 02:45:28.981] [Server thread/INFO] [ping-wheel/]: Channel update: GatoGamer777 -> default
+[01Jan2025 02:45:48.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:46:19.402] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Fox$Type
+[01Jan2025 02:47:00.660] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 210 stacked items at:[-456, 79, 2389] in minecraft:overworld. Removed leaking items automatically
+[01Jan2025 02:47:11.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 02:47:52.061] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 82 stacked items at:[-464, 65, 2385] in minecraft:overworld
+[01Jan2025 02:49:02.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 02:49:04.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Creative Mode]
+[01Jan2025 02:49:33.611] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@151481e7
+[01Jan2025 03:03:08.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 03:03:16.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Creative Mode]
+[01Jan2025 03:03:53.169] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-454, 79, 2389] in minecraft:overworld
+[01Jan2025 03:03:54.368] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 84 stacked items at:[-460, 71, 2387] in minecraft:overworld
+[01Jan2025 03:07:30.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 03:07:34.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 03:08:07.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 03:08:22.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 03:08:24.813] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-460, 71, 2387] in minecraft:overworld
+[01Jan2025 03:08:29.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 03:08:34.664] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-454, 79, 2389] in minecraft:overworld
+[01Jan2025 03:08:37.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 03:08:47.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 03:08:52.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 03:11:49.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:49.757] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:49.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:49.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.157] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.660] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:50.957] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.158] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.257] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.557] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.760] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.858] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:51.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.057] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.156] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.264] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.456] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.857] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:52.958] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.059] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.157] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.259] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.357] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.457] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.558] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.657] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.758] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:11:53.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[01Jan2025 03:13:42.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Gave 32    [Cocoa Beans] to GatoGamer777]
+[01Jan2025 03:14:59.370] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[01Jan2025 03:15:02.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:15:04.413] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 4619 Ticks
+[01Jan2025 03:15:11.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Adventure Mode]
+[01Jan2025 03:15:13.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:15:17.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Gave 1    [Milk Bucket] to GatoGamer777]
+[01Jan2025 03:15:21.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-623, y=102, z=2444}
+[01Jan2025 03:15:21.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-623, y=102, z=2444}
+[01Jan2025 03:15:27.411] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/fluid/FluidHelper$FluidExchange
+[01Jan2025 03:15:28.481] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-637, y=102, z=2448} BlockPos{x=-638, y=102, z=2448}
+[01Jan2025 03:15:28.581] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-637, y=102, z=2448} BlockPos{x=-638, y=102, z=2449}
+[01Jan2025 03:16:09.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=102, z=2450} BlockPos{x=-629, y=102, z=2450}
+[01Jan2025 03:16:09.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=102, z=2450} BlockPos{x=-629, y=102, z=2450}
+[01Jan2025 03:16:13.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-635, y=102, z=2448} BlockPos{x=-635, y=102, z=2449}
+[01Jan2025 03:16:14.123] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-636, y=102, z=2447} BlockPos{x=-636, y=102, z=2446}
+[01Jan2025 03:16:14.186] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-636, y=102, z=2447} BlockPos{x=-635, y=102, z=2446}
+[01Jan2025 03:16:15.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-635, y=102, z=2447} BlockPos{x=-635, y=102, z=2445}
+[01Jan2025 03:16:15.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-635, y=102, z=2447} BlockPos{x=-636, y=102, z=2445}
+[01Jan2025 03:16:16.943] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-636, y=102, z=2447} BlockPos{x=-633, y=102, z=2443}
+[01Jan2025 03:16:16.989] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-636, y=102, z=2447} BlockPos{x=-633, y=102, z=2443}
+[01Jan2025 03:16:17.031] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-636, y=102, z=2447} BlockPos{x=-633, y=102, z=2443}
+[01Jan2025 03:16:35.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:16:38.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:17:01.722] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-636, 109, 2443] in minecraft:overworld
+[01Jan2025 03:17:14.959] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 87 stacked items at:[-629, 103, 2447] in minecraft:overworld
+[01Jan2025 03:17:21.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-627, y=109, z=2442} BlockPos{x=-629, y=109, z=2442}
+[01Jan2025 03:17:35.191] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 90 stacked items at:[-631, 102, 2436] in minecraft:overworld
+[01Jan2025 03:18:03.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:18:06.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:18:26.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-624, y=109, z=2444} BlockPos{x=-625, y=109, z=2446}
+[01Jan2025 03:18:29.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=109, z=2444} BlockPos{x=-622, y=109, z=2442}
+[01Jan2025 03:18:29.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-625, y=109, z=2444} BlockPos{x=-622, y=109, z=2442}
+[01Jan2025 03:18:42.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:18:44.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:19:07.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-618, y=109, z=2444} BlockPos{x=-621, y=102, z=2443}
+[01Jan2025 03:19:23.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-628, y=102, z=2449} BlockPos{x=-625, y=102, z=2449}
+[01Jan2025 03:20:17.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Adventure Mode]
+[01Jan2025 03:20:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:20:27.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Adventure Mode]
+[01Jan2025 03:20:37.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:21:03.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU fell from a high place
+[01Jan2025 03:21:07.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Teleported PepitoinsanoUwU to -599.500000, 103.500000, 2437.500000]
+[01Jan2025 03:21:10.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:21:13.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:21:18.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-597, y=102, z=2441}
+[01Jan2025 03:21:18.685] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-597, y=102, z=2441}
+[01Jan2025 03:21:18.735] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-597, y=102, z=2441}
+[01Jan2025 03:21:39.547] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-627, 102, 2443] in minecraft:overworld
+[01Jan2025 03:21:41.188] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=102, z=2443} BlockPos{x=-630, y=102, z=2441}
+[01Jan2025 03:21:41.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=102, z=2443} BlockPos{x=-630, y=102, z=2442}
+[01Jan2025 03:21:42.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=102, z=2443} BlockPos{x=-630, y=102, z=2440}
+[01Jan2025 03:21:42.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=102, z=2443} BlockPos{x=-629, y=102, z=2440}
+[01Jan2025 03:21:44.094] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=102, z=2443} BlockPos{x=-629, y=102, z=2439}
+[01Jan2025 03:21:44.141] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-629, y=102, z=2443} BlockPos{x=-630, y=102, z=2439}
+[01Jan2025 03:21:54.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Gave 1    [White Chocolate Bucket] to GatoGamer777]
+[01Jan2025 03:22:03.736] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-601, 102, 2439] in minecraft:overworld
+[01Jan2025 03:23:53.464] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 03:25:35.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:25:38.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 03:25:38.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:25:40.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 03:25:57.784] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-627, y=109, z=2438} BlockPos{x=-628, y=109, z=2438}
+[01Jan2025 03:25:57.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-627, y=109, z=2438} BlockPos{x=-629, y=109, z=2438}
+[01Jan2025 03:25:57.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-627, y=109, z=2438} BlockPos{x=-629, y=109, z=2438}
+[01Jan2025 03:26:02.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=109, z=2439} BlockPos{x=-625, y=109, z=2438}
+[01Jan2025 03:26:02.538] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-626, y=109, z=2439} BlockPos{x=-625, y=109, z=2437}
+[01Jan2025 03:26:19.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-605, y=109, z=2438} BlockPos{x=-606, y=109, z=2438}
+[01Jan2025 03:26:19.346] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-605, y=109, z=2438} BlockPos{x=-606, y=109, z=2439}
+[01Jan2025 03:26:30.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-607, y=109, z=2437} BlockPos{x=-608, y=109, z=2437}
+[01Jan2025 03:26:34.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=109, z=2437} BlockPos{x=-619, y=109, z=2437}
+[01Jan2025 03:26:34.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-611, y=109, z=2437} BlockPos{x=-620, y=109, z=2437}
+[01Jan2025 03:26:49.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU fell from a high place
+[01Jan2025 03:26:53.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Teleported PepitoinsanoUwU to -634.500000, 96.500000, 2429.500000]
+[01Jan2025 03:27:22.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:27:25.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:27:58.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:28:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:28:08.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-636, y=109, z=2433}

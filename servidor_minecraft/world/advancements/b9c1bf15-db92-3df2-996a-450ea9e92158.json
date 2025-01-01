@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-01-01 02:04:59 +0000"
+    },
+    "done": true
+  },
   "extradelight:start": {
     "criteria": {
       "start": "2024-11-19 01:43:19 +0000"

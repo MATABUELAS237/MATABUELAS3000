@@ -4466,3 +4466,25 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [01Jan2025 02:04:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU has made the advancement [You Spin Me Right Round Baby]
 [01Jan2025 02:04:52.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
 [01Jan2025 02:04:59.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoGamer777 has made the advancement [You Spin Me Right Round Baby]
+[01Jan2025 02:12:48.263] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting immersive_aircraft/entity/EngineAircraft$GUI_STYLE
+[01Jan2025 02:13:10.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 02:13:20.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 02:14:10.577] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[01Jan2025 02:14:20.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GatoGamer777 lost connection: Disconnected
+[01Jan2025 02:14:20.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoGamer777 left the game
+[01Jan2025 02:14:20.373] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b9c1bf15-db92-3df2-996a-450ea9e92158
+[01Jan2025 02:14:25.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Creative Mode]
+[01Jan2025 02:14:32.393] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@764ccb13
+[01Jan2025 02:14:32.426] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 02:14:32.429] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:14:32.431] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:14:32.445] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:big_cartridge_filling_deployer removed now.
+[01Jan2025 02:14:32.447] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: createbigcannons:cartridge_assembly_deployer removed now.
+[01Jan2025 02:14:32.457] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GatoGamer777[/127.223.136.87:55183] logged in with entity id 3203 at (-580.7058754449267, 69.0, 2365.915285236578)
+[01Jan2025 02:14:32.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoGamer777 joined the game
+[01Jan2025 02:14:32.589] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b9c1bf15-db92-3df2-996a-450ea9e92158
+[01Jan2025 02:14:32.593] [Server thread/INFO] [Jade/]: Syncing config to GatoGamer777 (b9c1bf15-db92-3df2-996a-450ea9e92158)
+[01Jan2025 02:14:33.124] [Server thread/INFO] [ping-wheel/]: Channel update: GatoGamer777 -> default
+[01Jan2025 02:14:51.462] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GatoGamer777 lost connection: Disconnected
+[01Jan2025 02:14:51.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: GatoGamer777 left the game
+[01Jan2025 02:14:51.464] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for b9c1bf15-db92-3df2-996a-450ea9e92158

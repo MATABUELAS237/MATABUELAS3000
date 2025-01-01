@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "uuid": "47cac93d-1f36-3013-bb11-dbf7e7fd7dcc",
+    "name": "gatogamer777+",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b9c1bf15-db92-3df2-996a-450ea9e92158",
+    "name": "GatoGamer777",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "850ce8f4-aca3-3622-9d88-e79c2b8e1caa",
+    "name": "PepitoinsanoUwU",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

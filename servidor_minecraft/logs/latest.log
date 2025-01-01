@@ -4728,3 +4728,70 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [01Jan2025 03:27:58.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
 [01Jan2025 03:28:02.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
 [01Jan2025 03:28:08.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-636, y=109, z=2433}
+[01Jan2025 03:28:22.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Creative Mode]
+[01Jan2025 03:28:26.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Adventure Mode]
+[01Jan2025 03:28:30.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:28:53.466] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 03:29:18.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Creative Mode]
+[01Jan2025 03:29:26.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:29:30.010] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All times have been corrected: 6689 Ticks
+[01Jan2025 03:30:16.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Creative Mode]
+[01Jan2025 03:30:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:30:32.927] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[01Jan2025 03:30:32.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GatoGamer777> xaero-waypoint:Waypoint:X:-510:103:2548:8:false:0:Internal-overworld-waypoints
+[01Jan2025 03:30:35.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <GatoGamer777> xaero-waypoint:Waypoint:X:-631:126:2462:1:false:0:Internal-overworld-waypoints
+[01Jan2025 03:30:59.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:31:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:31:24.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:31:32.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:31:54.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:31:58.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:32:05.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Adventure Mode]
+[01Jan2025 03:32:07.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:32:31.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:32:46.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:32:54.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:33:27.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:33:43.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:34:13.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <PepitoinsanoUwU> ²4%^3#®¬°·±ª!·|¤)>¦¬'96²!ª`\©«%¿
+[01Jan2025 03:34:16.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:34:24.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:34:29.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-638, y=115, z=2455} BlockPos{x=-638, y=114, z=2455}
+[01Jan2025 03:34:29.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-638, y=115, z=2455} BlockPos{x=-638, y=114, z=2455}
+[01Jan2025 03:34:34.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-638, y=98, z=2455} BlockPos{x=-638, y=97, z=2455}
+[01Jan2025 03:35:09.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU fell out of the world
+[01Jan2025 03:35:09.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Killed PepitoinsanoUwU]
+[01Jan2025 03:35:14.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Teleported PepitoinsanoUwU to -637.500000, 69.500000, 2455.500000]
+[01Jan2025 03:36:08.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:36:23.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:36:54.148] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[01Jan2025 03:37:00.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-628, y=123, z=2457}
+[01Jan2025 03:37:09.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:38:53.460] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 03:40:56.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Spectator Mode]
+[01Jan2025 03:41:17.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:41:19.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU fell from a high place
+[01Jan2025 03:41:23.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Teleported PepitoinsanoUwU to -637.500000, 69.500000, 2455.500000]
+[01Jan2025 03:43:01.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 03:43:43.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <PepitoinsanoUwU> =°}µ`#'[`~±\£¦%¹;¦¦:º¯7»9ª.°-,\¿
+[01Jan2025 03:43:53.467] [Server thread/INFO] [jecalculation/]: Failed to load default records at /workspaces/MATABUELAS3000/servidor_minecraft/config/jecalculation/records.json.
+[01Jan2025 03:44:13.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 03:44:52.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Creative Mode]
+[01Jan2025 03:44:56.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Set own game mode to Survival Mode]
+[01Jan2025 03:46:44.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <PepitoinsanoUwU> [@¢"£$±¬;3)?±$2¢|]»¬««²¡«¨2}!·¿¿
+[01Jan2025 03:47:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Successfully filled 32031 blocks]
+[01Jan2025 03:48:26.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Successfully filled 3 blocks]
+[01Jan2025 03:49:44.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlock$CartAssemblerAction
+[01Jan2025 03:51:58.094] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-525, 69, 2395] in minecraft:overworld
+[01Jan2025 03:53:52.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [GatoGamer777: Gave 1    [Black Chocolate Bucket] to GatoGamer777]
+[01Jan2025 03:53:55.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PepitoinsanoUwU has reached the goal [Strong Arms]
+[01Jan2025 03:54:53.987] [Worker-Main-33/WARN] [ModernFix/]: The namespace idas contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[01Jan2025 03:55:05.579] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MaterialColor$Brightness
+[01Jan2025 03:55:05.635] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 12183ms or 243 ticks behind
+[01Jan2025 04:05:07.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Spectator Mode]
+[01Jan2025 04:05:08.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Survival Mode]
+[01Jan2025 04:05:19.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-596, y=95, z=2473} BlockPos{x=-592, y=95, z=2473}
+[01Jan2025 04:05:21.666] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-592, y=95, z=2474} BlockPos{x=-591, y=95, z=2476}
+[01Jan2025 04:07:06.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PepitoinsanoUwU: Set own game mode to Creative Mode]
+[01Jan2025 04:07:08.763] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 81 stacked items at:[-589, 110, 2463] in minecraft:overworld
+[01Jan2025 04:07:08.763] [Server thread/WARN] [com.leaky.Leaky/]: Detected farm leak: 82 stacked items at:[-579, 110, 2463] in minecraft:overworld
